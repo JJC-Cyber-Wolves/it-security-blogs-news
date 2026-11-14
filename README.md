@@ -5,6 +5,7 @@ The following is a list of good IT security/cybersecurity blogs and news sites t
 [Krebs on Security](https://krebsonsecurity.com/): Brian Krebs covers computer security and cybercrime.  
 [Daniel Miessler](https://danielmiessler.com/): He focuses on the intersection of security, AI, and the future.  
 [Schneier on Security](https://www.schneier.com/): Bruce Schneier is a well-known security technologist that covers computer security, digital privacy, and the intersection of technology, economics, psychology, and public policy.  
+[ITnerd](https://itnerd.blog/): Straightforward opinions and updates on major IT events, software outages, industry trends, and digital life.  
   
 **News**  
 [The Hacker News](https://thehackernews.com/): Provides day-to-day updates on high-profile breaches, zero-days, and emerging threat intelligence.  
